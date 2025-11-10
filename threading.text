@@ -4,3 +4,9 @@ how to perform a specific task.
 
 ex: MS words is a program that allows users 
     to create and edit documents.
+
+Process : A process is an instance of a program that is 
+        being executed. when a program runs. 
+        the OS creates a process to manage its execution.
+
+When we open MS word it becomes a process in the OS.
