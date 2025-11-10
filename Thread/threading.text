@@ -13,3 +13,6 @@ When we open MS word it becomes a process in the OS.
 
 Thread : A thread is a smallest unit of execution with in the process.
 A process can have multiple threads which share the same resource but can run independently.
+
+ex: A web browser like google chrome might use multiple thread for different tabs,
+with each tab running as separate thread.
