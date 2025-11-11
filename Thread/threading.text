@@ -25,3 +25,9 @@ On multi core CPUs true parallel execution occurs with tasks distributed across 
 The OS schedular balances the load, ensuring efficient and responsive system performance.
 
 Example: we are browsing the internet while listing the songs and download some files.
+
+Benifites of multitasking :
+        Multi tasking utilizes the capabilities of a CPU and its cores, when and operating system
+        performs multitasking it can assign different tasks to the different cores that is more efficient
+        than assigning all task to single core.
+
