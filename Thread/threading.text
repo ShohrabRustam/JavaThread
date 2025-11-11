@@ -31,3 +31,5 @@ Benifites of multitasking :
         performs multitasking it can assign different tasks to the different cores that is more efficient
         than assigning all task to single core.
 
+Multithreading refers to the ability to execute multiple thread within a single process concurrently.
+
