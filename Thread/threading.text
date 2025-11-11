@@ -36,3 +36,13 @@ Multithreading refers to the ability to execute multiple thread within a single 
 Ex: A web browser can use multithreading by having separate threads for rendering page, javaScript
 and managing user inputs, this makes a browser more responsive and efficient.
 
+
+Time Slicing:
+            Time slicing divides CPU time into small intervals called time slice or quanta.
+
+Function: the OS schedular allocates these time slices to different processes and threads,
+ensuring each gets fair share of CPU time.
+
+Purpose: This prevent any single process or thread from monopolizing the CPU, improving responsiveness
+and enabling concurrent execution.
+
