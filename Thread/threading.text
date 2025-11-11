@@ -16,3 +16,10 @@ A process can have multiple threads which share the same resource but can run in
 
 ex: A web browser like google chrome might use multiple thread for different tabs,
 with each tab running as separate thread.
+
+
+Multitasking: Multi tasking allows and operating system to run multiple process simultaneously,
+              On single core cpu, this is done through time sharing rapidly switching between the tasks
+
+On multi core CPUs true parallel execution occurs with tasks distributed across cores,
+The OS schedular balances the load, ensuring efficient and responsive system performance.
