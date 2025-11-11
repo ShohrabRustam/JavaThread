@@ -23,3 +23,5 @@ Multitasking: Multi tasking allows and operating system to run multiple process 
 
 On multi core CPUs true parallel execution occurs with tasks distributed across cores,
 The OS schedular balances the load, ensuring efficient and responsive system performance.
+
+Example: we are browsing the internet while listing the songs and download some files.
