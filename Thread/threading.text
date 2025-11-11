@@ -46,3 +46,12 @@ ensuring each gets fair share of CPU time.
 Purpose: This prevent any single process or thread from monopolizing the CPU, improving responsiveness
 and enabling concurrent execution.
 
+Context Switching:
+                    Context switching is a process of saving the state of currently running process
+or thread and loading the state of next one to be executed.
+
+Function : When process or thread time slices expire the OS schedular perform a context switching to move
+the CPU's focus to another process or thread.
+
+Purpose: This allows multiple processes and threads to share the CPU, giving the appearance of simultaneous
+execution on a single core CPU or improve parallelism on multi core CPU.
