@@ -33,3 +33,6 @@ Benifites of multitasking :
 
 Multithreading refers to the ability to execute multiple thread within a single process concurrently.
 
+Ex: A web browser can use multithreading by having separate threads for rendering page, javaScript
+and managing user inputs, this makes a browser more responsive and efficient.
+
